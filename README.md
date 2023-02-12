@@ -1,8 +1,10 @@
-# neural-punctuator
-Complimentary code for our paper [**_Automatic punctuation restoration with BERT models_**](https://arxiv.org/abs/2101.07343) submitted to the XVII. Conference on Hungarian Computational Linguistics.
 
-## Abstract
-We present an approach for automatic punctuation restoration with BERT models for English and Hungarian. For English, we conduct our experiments on Ted Talks, a commonly used benchmark for punctuation restoration, while for Hungarian we evaluate our models on the Szeged Treebank dataset. Our best models achieve a macro-averaged F1-score of 79.8 in English and 82.2 in Hungarian.
+
+# neural-punctuator
+
+Key reference paper to Thesis 'Automatic Punctuation Restoration' - Chan Le, 2022.
+
+Adapted code of paper [**_Automatic punctuation restoration with BERT models_**](https://arxiv.org/abs/2101.07343) (Attila Nagy, Bence Bial, Judit Ács) submitted to the XVII. Conference on Hungarian Computational Linguistics.
 
 ## Repository Structure
 
@@ -25,9 +27,3 @@ We present an approach for automatic punctuation restoration with BERT models fo
 Ted Talk dataset (English) - http://hltc.cs.ust.hk/iwslt/index.php/evaluation-campaign/ted-task.html
 
 Szeged Treebank (Hungarian) - https://rgai.inf.u-szeged.hu/node/113
-
-
-## Authors
-Attila Nagy, Bence Bial, Judit Ács
-
-Budapest University of Technology and Economics - Department of Automation and Applied Informatics
